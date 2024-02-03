@@ -1,0 +1,7 @@
+{
+    "workbench.settings.editor": "json",
+    "python.autoComplete.extraPaths": [ "/bin/python", "/etc/python", "/etc/python3", "/etc/python3.9"
+
+    ],
+    "css.format.enable": false
+}
